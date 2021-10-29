@@ -1,0 +1,68 @@
+.mainvisual {
+ background-image: url(/Users/katsu/Downloads/kadai_html/html_name_00/img/mainbg.png);
+ height: 500px;
+ width: 1200px;
+ text-align: center;
+ color: white;
+ font-size: 36px;
+ padding-top: 150px;
+ box-sizing: border-box;   
+}
+.content {
+    width: 1200px;
+}
+.content h1 {
+    color: yellow;
+    text-align: center;
+}
+.content p {
+    text-align: center;
+}
+.content h2 {
+    text-align: center;
+}       
+.flex_container {
+    display:flex;
+    padding: 0 100px;
+}
+
+.flex_container img {
+    width: 250px;
+}
+.flex_container1 {
+    display:flex;
+}
+.flex_container1 img{
+    width: 600px;
+}  
+
+.flex_container2 img {
+    width: 600px;
+}
+.flex_container2 {
+    display:flex;
+}
+.flex_container3 {
+    display:flex;
+}
+iframe {
+    width: 1200px
+}
+.contact-a {
+    text-align: center;
+}
+.contact-b {
+    text-align: center;
+}
+.footer {
+    background-color: black;
+    height: 100px;
+    width:1200px;   
+}
+.footer p{
+    font-size: 15px;    
+  color: white; 
+  text-align: center;
+  padding-top: 40px;
+  box-sizing: border-box; 
+}
